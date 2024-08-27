@@ -7,3 +7,7 @@ function fun1() {
 function fun2() {
   return "this is function 2";
 }
+
+function fun3() {
+  return "this is function 3";
+}
