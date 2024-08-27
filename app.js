@@ -11,3 +11,8 @@ function fun2() {
 function fun3() {
   return "this is function 3";
 }
+
+
+function fun4(){
+    return "this is function 4 added from feature branch"
+}
