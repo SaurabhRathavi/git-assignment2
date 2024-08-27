@@ -16,3 +16,7 @@ function fun3() {
 function fun4(){
     return "this is function 4 added from feature branch"
 }
+
+function fun5(){
+    return "this is function 5, brother of function 4"
+}
